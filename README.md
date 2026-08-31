@@ -92,4 +92,10 @@ For technical scale-up inquiries, corporate briefings, or sovereign program vali
 
 ---
 © 2025 NVIDIA, the NVIDIA logo, and © 2026 Odynex Axis Logistics LLC, © 2026 SOWEGA Asian Pacific Chamber of Commerce & Foundation, and the © 2026 Odynex Institute are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries.
+Please edit the README.md file to fix the outdated copyright year in the footer. 
 
+Locate this line:
+© 2025 NVIDIA, the NVIDIA logo, and © 2026 Odynex Axis Logistics LLC
+
+And update it to:
+© 2026 NVIDIA, the NVIDIA logo, and © 2026 Odynex Axis Logistics LLC
